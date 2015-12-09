@@ -1,4 +1,4 @@
-# docker-nodebuild
+# docker-nodebuilder
 Docker image created for automated builds of nodejs applications on a CI system.
 
 Contains sane defaults for npm and bower and ensures that files in mapped directory remain owned by user running the build.
